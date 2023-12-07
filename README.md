@@ -5,7 +5,7 @@
  
 [![LJB's GitHub stats](https://github-readme-stats.vercel.app/api?username=qpzm1010&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/jiholee0/github-readme-stats)
 
-## 💻 LJB's log 💻
+## 💻 LJB's project 💻
 <div style="display:flex; flex-direction:row;">
     <a href="https://qpzm1010.github.io/portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-FFC0CB?style=for-the-badge"> 
