@@ -5,6 +5,20 @@
  
 [![LJB's GitHub stats](https://github-readme-stats.vercel.app/api?username=qpzm1010&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/jiholee0/github-readme-stats)
 
+## 💻 LJB's log 💻
+<div style="display:flex; flex-direction:row;">
+    <a href="https://qpzm1010.github.io/portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-FFC0CB?style=for-the-badge"> 
+    </a>
+    <a href="http://rdsteam.kro.kr/">
+        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white">
+    </a>
+    <a href="https://qpzm1010.github.io/">
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white">
+    </a>
+    <a href="http://aqpzm-chat.p-e.kr/">
+        <img src="https://img.shields.io/badge/express-000000?style=flat-square&logo=opencv&logoColor=white">
+    </a>
 ## 🔨Skills
 <div style="display:flex; flex-direction:row;">
     <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
