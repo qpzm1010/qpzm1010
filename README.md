@@ -17,7 +17,7 @@
     <a href="https://qpzm1010.github.io/">
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white">
     </a>
-    <a href="http://aqpzm-chat.p-e.kr/">
+    <a href="http://aqpzm-chat-js.kro.kr/">
         <img src="https://img.shields.io/badge/express-000000?style=flat-square&logo=opencv&logoColor=white">
     </a>
 
