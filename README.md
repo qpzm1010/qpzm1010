@@ -11,7 +11,7 @@
     <a href="https://qpzm1010.github.io/portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-FFC0CB?style=for-the-badge"> 
     </a>
-    <a href="http://rdsteam.kro.kr/">
+    <a href="http://rdsteam-yolo.p-e.kr">
         <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white">
     </a>
     <a href="https://qpzm1010.github.io/">
