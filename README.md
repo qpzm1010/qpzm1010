@@ -6,9 +6,6 @@
 
 ## 💻 LJB's project 💻
 <div style="display:flex; flex-direction:row;">
-    <a href="https://qpzm1010.github.io/portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-FFC0CB?style=for-the-badge"> 
-    </a>
     <a href="http://rdsteam-yolo.p-e.kr">
         <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white">
     </a>
@@ -44,8 +41,5 @@
 <div style="display:flex; flex-direction:row;">
     <a href="https://www.instagram.com/aqpzm232/">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
-    </a>
-    <a href="aqpzm30@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
     </a>
 </div><br>
