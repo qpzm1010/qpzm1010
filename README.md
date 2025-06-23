@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=%20LJB%20GitHub%20{KR}&animation=twinkling&fontSize=50&fontAlignY=40&fontAlign=50&height=200)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=%20LJB%20GitHub%20[KR]&animation=twinkling&fontSize=50&fontAlignY=40&fontAlign=50&height=200)
 
 ## 💻Logs 
  
