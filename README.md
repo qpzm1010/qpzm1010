@@ -32,12 +32,3 @@
 </div>
 
 
-## 💬My Info 
-<div style="display:flex; flex-direction:row;">
-    <a href="https://www.instagram.com/aqpzm232/">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
-    </a>
-</div><br>
-
-## AWS-EARSER!
-https://aws-earser.kro.kr/
