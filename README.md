@@ -5,13 +5,13 @@
 [![LJB's GitHub stats](https://github-readme-stats.vercel.app/api?username=qpzm1010&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/jiholee0/github-readme-stats)
 
 ## 💻 LJB's Activities 💻
-- 2023 - 기능반 입부
-- 2024 - 전국기능경기대회 경기도대표
-- 2025 - 전국기능경기대회 경기도대표
 
-🏆
-- 2024 - 지방기능경기대회 3위
-- 2025 - 지방기능경기대회 3위
+- 2023 - 클라우드컴퓨팅 기능반 입부
+- 2024 - 클라우드컴퓨팅 전국기능경기대회 경기도대표
+- 2025 - 클라우드컴퓨팅 전국기능경기대회 경기도대표
+
+🏆 2024 - 클라우드컴퓨팅 경기도 지방기능경기대회 3위
+🏆 2025 - 클라우드컴퓨팅 경기도 지방기능경기대회 3위
  
 ## 🔨Skills
 <div style="display:flex; flex-direction:row;">
