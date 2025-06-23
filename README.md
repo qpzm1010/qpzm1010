@@ -4,18 +4,14 @@
  
 [![LJB's GitHub stats](https://github-readme-stats.vercel.app/api?username=qpzm1010&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/jiholee0/github-readme-stats)
 
-## 💻 LJB's project 💻
-<div style="display:flex; flex-direction:row;">
-    <a href="http://rdsteam-yolo.p-e.kr">
-        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white">
-    </a>
-    <a href="https://qpzm1010.github.io/">
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white">
-    </a>
-    <a href="http://aqpzm-chat-js.kro.kr/">
-        <img src="https://img.shields.io/badge/express-000000?style=flat-square&logo=opencv&logoColor=white">
-    </a>
+## 💻 LJB's Activities 💻
+- 2023 - 기능반 입부
+- 2024 - 전국기능경기대회 경기도대표
+- 2025 - 전국기능경기대회 경기도대표
 
+🏆
+- 2024 - 지방기능경기대회 3위
+- 2025 - 지방기능경기대회 3위
  
 ## 🔨Skills
 <div style="display:flex; flex-direction:row;">
